@@ -39,27 +39,7 @@ int InordList::distWord(int &n)
     return result;
 
 }
-/*
-int InordList::charCount(fstream file)
-{
-    if(head==NULL)
-    {
-        cout<<"There's No Words";
-        return 0;
-    }
-    string test="";
-    int cnt=0;
-    Node *temp=head;
-    for(temp;temp->next!=NULL;temp=temp->next)
-    {
-        test=temp->data;
-        cnt+=test.length();
-        cnt++;
-    }
-    return cnt;
 
-}
-*/
 int InordList::countWord(string &s)
 {
     if(head==NULL)
