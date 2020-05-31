@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1590797060 source:c:\users\mahmoud arafa\desktop\code_blocksoutput\a4\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<typeinfo>
+	"queue.h"
+	<iostream>
+
+1590792105 c:\users\mahmoud arafa\desktop\code_blocksoutput\a4\queue.h
+	<bits/stdc++.h>
+	<iostream>
+
